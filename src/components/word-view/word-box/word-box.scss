@@ -1,0 +1,20 @@
+.word-box {
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 16px;
+    align-content: center;
+    cursor: pointer;
+}
+
+.correct {
+    background-color: green;
+}
+
+.wrong {
+    background-color: red;
+}
+
+.word-box:not(.wrong):not(.correct):hover {
+    background-color: papayawhip;
+}

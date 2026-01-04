@@ -1,0 +1,19 @@
+.unit-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.unit-list-entry {
+  height: 80px;
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 16px;
+  align-content: center;
+  text-align: center;
+  cursor: pointer;
+}
+
+.unit-list-entry:hover {
+  background-color: white;
+}

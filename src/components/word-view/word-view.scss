@@ -1,0 +1,24 @@
+.word-view {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 32px;
+}
+
+.word-view-instruction {
+    margin: 32px;
+}
+
+.word-view-options {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+
+@media (min-width: 768px) {
+    .word-view-options {
+        flex-direction: row;
+    }
+}

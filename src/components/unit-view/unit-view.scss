@@ -1,0 +1,26 @@
+.unit-view {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border: 1px solid black;
+    padding: 32px;
+}
+
+@media (min-width: 512px) {
+  .unit-view {
+    margin: 32px;
+  }
+}
+
+@media (min-width: 768px) {
+  .unit-view {
+    margin: 64px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .unit-view {
+    margin: 128px;
+  }
+}

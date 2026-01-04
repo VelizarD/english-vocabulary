@@ -1,0 +1,17 @@
+.word-footer {
+  height: 80px;
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 16px;
+  align-content: center;
+  cursor: pointer;
+}
+
+.word-footer__disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.word-footer:hover {
+  background-color: papayawhip;
+}
