@@ -320,7 +320,7 @@ export const Unit1: Unit = {
                     label: 'malen'
                 },
                 {
-                    label: 'hassen'
+                    label: 'lieben'
                 }]
         },
         {
