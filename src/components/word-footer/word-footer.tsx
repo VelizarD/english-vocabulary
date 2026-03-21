@@ -1,14 +1,17 @@
-import {FunctionComponent} from "preact";
-import {useCallback} from "preact/hooks";
+import { FunctionComponent } from 'preact';
+import { useCallback } from 'preact/hooks';
 
 export type State = 'thinking' | 'correct' | 'wrong';
 
-export type  WordFooterProps= {
+export type WordFooterProps = {
     onNextClicked: () => void;
     state: State;
-}
+};
 
-export const WordFooter: FunctionComponent<WordFooterProps> = ({ onNextClicked, state }) => {
+export const WordFooter: FunctionComponent<WordFooterProps> = ({
+    onNextClicked,
+    state,
+}) => {
     const smiley = getSmiley(state);
 
     const buttonClasses = `word-footer${state === 'thinking' ? ' word-footer__disabled' : ''}`;
@@ -23,17 +26,17 @@ export const WordFooter: FunctionComponent<WordFooterProps> = ({ onNextClicked, 
 
     return (
         <div class={buttonClasses} onClick={onClickHandler}>
-           {`${smiley} Nächste Vokabel`}
+            {`${smiley} Nächste Vokabel`}
         </div>
-    )
-}
+    );
+};
 
 function getSmiley(state: State) {
     if (state === 'correct') {
-        return "😁";
+        return '😁';
     } else if (state === 'wrong') {
-        return "😳";
+        return '😳';
     } else {
-        return "🤔";
+        return '🤔';
     }
 }

@@ -6,9 +6,10 @@
         "build": "vite build",
         "dev": "vite",
         "lint": "eslint",
-        "format": "prettier"
+        "format": "prettier --write ."
     },
     "devDependencies": {
+        "@preact/preset-vite": "2.10.2",
         "@types/node": "20.19.27",
         "eslint": "9.39.2",
         "preact": "10.28.1",

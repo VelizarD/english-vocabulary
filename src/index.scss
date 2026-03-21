@@ -1,10 +1,10 @@
-@forward "./components/unit-list/unit-list.scss";
-@forward "./components/unit-view/unit-view.scss";
-@forward "./components/word-footer/word-footer.scss";
-@forward "./components/word-view/index";
+@forward './components/unit-list/unit-list.scss';
+@forward './components/unit-view/unit-view.scss';
+@forward './components/word-footer/word-footer.scss';
+@forward './components/word-view/index';
 
 body {
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
     background-color: papayawhip;
 
     -webkit-user-select: none;
