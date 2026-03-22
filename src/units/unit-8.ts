@@ -131,9 +131,8 @@ export const Unit8: Unit = {
         },
         {
             englishLabel: 'Let’s get out of here.',
-            example: '',
             options: [
-                { label: 'Lasst uns verschwinden.', correct: true },
+                { label: 'Lass(t) uns verschwinden.', correct: true },
                 { label: 'Ich weiß es nicht.' },
                 { label: 'Das ist nett.' },
             ],

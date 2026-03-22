@@ -41,6 +41,14 @@ export const Unit7: Unit = {
             ],
         },
         {
+            englishLabel: "That's nice.",
+            options: [
+                { label: 'Das ist nett.', correct: true },
+                { label: 'Das ist frech.' },
+                { label: 'Thas ist lecker.' },
+            ],
+        },
+        {
             englishLabel: 'always',
             example: 'They always have pizza for dinner.',
             options: [
@@ -117,7 +125,7 @@ export const Unit7: Unit = {
             englishLabel: 'never',
             example: 'She never eats meat. She’s a vegetarian.',
             options: [
-                { label: 'nie', correct: true },
+                { label: 'nie, niemald', correct: true },
                 { label: 'oft' },
                 { label: 'immer' },
             ],
@@ -126,7 +134,7 @@ export const Unit7: Unit = {
             englishLabel: 'often',
             example: 'They often have bread for breakfast.',
             options: [
-                { label: 'oft', correct: true },
+                { label: 'oft, häufig', correct: true },
                 { label: 'nie' },
                 { label: 'manchmal' },
             ],
@@ -135,7 +143,7 @@ export const Unit7: Unit = {
             englishLabel: 'to put',
             example: 'We put fish and vegetables on the rice paper.',
             options: [
-                { label: 'setzen', correct: true },
+                { label: 'setzen, legen, stellen', correct: true },
                 { label: 'mögen' },
                 { label: 'kochen' },
             ],
@@ -163,13 +171,13 @@ export const Unit7: Unit = {
             englishLabel: 'usually',
             example: 'She usually has bread for breakfast.',
             options: [
-                { label: 'gewöhnlich', correct: true },
+                { label: 'gewöhnlich, normalerweise', correct: true },
                 { label: 'manchmal' },
                 { label: 'nie' },
             ],
         },
         {
-            englishLabel: 'vegetables',
+            englishLabel: 'vegetables (veggies)',
             example: 'I like veggies, I mean vegetables.',
             options: [
                 { label: 'Gemüse', correct: true },
@@ -181,7 +189,7 @@ export const Unit7: Unit = {
             englishLabel: 'best friend',
             example: 'I like John best. He’s my best friend.',
             options: [
-                { label: 'bester Freund', correct: true },
+                { label: 'bester Freund / beste Freundin', correct: true },
                 { label: 'Familie' },
                 { label: 'Großeltern' },
             ],
