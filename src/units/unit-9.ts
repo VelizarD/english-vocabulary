@@ -1,11 +1,9 @@
 import { Unit } from '../types/unit';
 
 export const Unit9: Unit = {
-    id: 'unit-9',
     title: 'Unit 9',
     words: [
         {
-            id: '1',
             englishLabel: 'unusual',
             example: 'A snake is a very unusual pet.',
             options: [
@@ -15,7 +13,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '2',
             englishLabel: 'mouse (pl mice)',
             example: 'I have a mouse and a dog and my friend has four mice.',
             options: [
@@ -25,7 +22,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '3',
             englishLabel: '(...) a day',
             example: 'She walks her dog three times a day.',
             options: [
@@ -35,7 +31,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '4',
             englishLabel: 'once',
             example: 'He feeds his hamster once a day.',
             options: [
@@ -45,7 +40,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '5',
             englishLabel: 'twice',
             example: 'I only feed my spider twice a week.',
             options: [
@@ -55,7 +49,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '6',
             englishLabel: 'across (Britain)',
             example: 'There are lots of pets in homes across Britain.',
             options: [
@@ -65,7 +58,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '7',
             englishLabel: 'dangerous',
             example: 'Crocodiles are dangerous animals.',
             options: [
@@ -75,7 +67,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '8',
             englishLabel: 'farm',
             example: 'She lives on a farm with horses and pigs.',
             options: [
@@ -85,7 +76,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '9',
             englishLabel: 'man (pl men)',
             example: 'The man’s name is John.',
             options: [
@@ -95,7 +85,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '10',
             englishLabel: 'near',
             example: 'The Smith family lives near London.',
             options: [
@@ -105,7 +94,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '11',
             englishLabel: 'newspaper',
             example: 'My dad always reads the newspaper in the morning.',
             options: [
@@ -115,7 +103,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '12',
             englishLabel: '(...) a week',
             example: 'He feeds his spider once a week.',
             options: [
@@ -125,7 +112,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '13',
             englishLabel: 'basket',
             example: 'Grandpa gives her two baskets of apples and plums.',
             options: [
@@ -135,7 +121,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '14',
             englishLabel: 'daughter',
             example: 'Clare is her daughter.',
             options: [
@@ -145,7 +130,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '15',
             englishLabel: 'to drive',
             example: 'On Sunday, they drive to Grandpa’s house.',
             options: [
@@ -155,7 +139,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '16',
             englishLabel: 'everybody',
             example: 'Everybody in class is sad today.',
             options: [
@@ -165,7 +148,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '17',
             englishLabel: 'far away',
             example: 'Grandpa’s house is far away.',
             options: [
@@ -175,7 +157,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '18',
             englishLabel: 'grandpa',
             example: 'My grandpa lives on a farm.',
             options: [
@@ -185,7 +166,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '19',
             englishLabel: 'mother',
             example: 'She lives at home with her mother.',
             options: [
@@ -195,7 +175,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '20',
             englishLabel: 'noise',
             example: 'Clare hears a noise in the apartment.',
             options: [
@@ -205,7 +184,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '21',
             englishLabel: 'to stay',
             example: 'We can’t stay here.',
             options: [
@@ -215,7 +193,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '22',
             englishLabel: 'cuddly toy',
             example: 'All day long he plays with his cuddly toys.',
             options: [
@@ -225,7 +202,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '23',
             englishLabel: 'to visit',
             example: 'On Sunday, they visit Grandpa.',
             options: [
@@ -235,7 +211,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '24',
             englishLabel: 'to be interested in',
             example: 'Tell me about the things you are interested in.',
             options: [
@@ -245,7 +220,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '25',
             englishLabel: 'fur',
             example: 'My pet has fur – lots of it.',
             options: [
@@ -255,7 +229,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '26',
             englishLabel: 'personal',
             example: 'Don’t put personal information on your blog.',
             options: [
@@ -265,7 +238,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '27',
             englishLabel: 'owner',
             example: 'Jamie is the owner of an unusual pet.',
             options: [
@@ -275,7 +247,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '28',
             englishLabel: 'aunty',
             example: 'Aunty Jane is Mum’s sister.',
             options: [
@@ -285,7 +256,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '29',
             englishLabel: 'dear',
             example: 'Dear Aunty Olivia, ...',
             options: [
@@ -295,7 +265,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '30',
             englishLabel: 'letter',
             example: 'Thank you for your letter.',
             options: [
@@ -305,7 +274,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '31',
             englishLabel: 'to bite',
             example: 'I don’t like that dog. It bites!',
             options: [
@@ -315,7 +283,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '32',
             englishLabel: 'beginning',
             example: 'The beginning of the film is fantastic.',
             options: [
@@ -325,7 +292,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '33',
             englishLabel: 'to begin',
             example: "He always begins his emails with 'Hi!'.",
             options: [
@@ -335,7 +301,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '34',
             englishLabel: 'best wishes',
             example: 'Best wishes to your mum and dad, Peter.',
             options: [
@@ -345,7 +310,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '35',
             englishLabel: 'ending',
             example: 'The ending of the book is very strange.',
             options: [
@@ -355,7 +319,6 @@ export const Unit9: Unit = {
             ],
         },
         {
-            id: '36',
             englishLabel: 'to need',
             example: 'I really need your help.',
             options: [

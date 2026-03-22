@@ -1,11 +1,9 @@
 import { Unit } from '../types/unit';
 
 export const Unit4: Unit = {
-    id: 'unit-4',
     title: 'Unit 4',
     words: [
         {
-            id: '1',
             englishLabel: 'after',
             example: 'After school I meet my friends.',
             options: [
@@ -15,7 +13,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '2',
             englishLabel: 'day',
             example: 'On the big day, Mike is nervous.',
             options: [
@@ -25,7 +22,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '3',
             englishLabel: 'end',
             example: 'At the end of the play, Mike is very happy.',
             options: [
@@ -35,7 +31,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '4',
             englishLabel: 'fun',
             example: 'It’s great fun.',
             options: [
@@ -45,7 +40,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '5',
             englishLabel: 'Go away!',
             example: 'Go away!',
             options: [
@@ -55,7 +49,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '6',
             englishLabel: 'to help',
             example: 'Let me help you.',
             options: [
@@ -65,7 +58,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '7',
             englishLabel: 'home',
             example: 'Mike is at home.',
             options: [
@@ -75,7 +67,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '8',
             englishLabel: 'It’s no good.',
             example: 'It’s no good.',
             options: [
@@ -85,7 +76,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '9',
             englishLabel: 'mum',
             example: 'She is his mum.',
             options: [
@@ -95,7 +85,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '10',
             englishLabel: 'next',
             example: 'The next day.',
             options: [
@@ -105,7 +94,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '11',
             englishLabel: 'still (not)',
             example: 'Miss Baker still isn’t happy.',
             options: [
@@ -115,7 +103,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '12',
             englishLabel: 'a day in the life of',
             example: 'The story is about a day in the life of Richard.',
             options: [
@@ -125,7 +112,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '13',
             englishLabel: 'to be asleep',
             example: 'He’s in bed and he’s asleep.',
             options: [
@@ -135,7 +121,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '14',
             englishLabel: 'early',
             example: 'It’s early. He’s still in bed.',
             options: [
@@ -145,7 +130,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '15',
             englishLabel: 'life (pl lives)',
             example: 'Elephants have a long life.',
             options: [
@@ -155,7 +139,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '16',
             englishLabel: 'lunchtime',
             example: 'It’s lunchtime. He’s hungry.',
             options: [
@@ -165,7 +148,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '17',
             englishLabel: 'sun',
             example: 'The sun is out.',
             options: [
@@ -175,7 +157,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '18',
             englishLabel: 'Are you OK?',
             example: 'Are you OK?',
             options: [
@@ -185,7 +166,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '19',
             englishLabel: 'homework (no pl)',
             example: 'We have got a lot of homework today.',
             options: [
@@ -195,7 +175,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '20',
             englishLabel: 'into',
             example: 'Go into the classroom!',
             options: [
@@ -205,7 +184,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '21',
             englishLabel: 'Oh dear!',
             example: 'Oh dear!',
             options: [
@@ -215,7 +193,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '22',
             englishLabel: 'room',
             example: 'There’s a rat in our room.',
             options: [
@@ -225,7 +202,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '23',
             englishLabel: 'why',
             example: 'Why are you tired?',
             options: [
@@ -235,7 +211,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '24',
             englishLabel: 'bad',
             example: 'Thursday and Friday aren’t bad.',
             options: [
@@ -245,7 +220,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '25',
             englishLabel: 'Don’t be late.',
             example: 'Don’t be late.',
             options: [
@@ -258,7 +232,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '26',
             englishLabel: 'tomorrow',
             example: 'Tomorrow is Monday.',
             options: [
@@ -268,7 +241,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '27',
             englishLabel: 'birthday',
             example: 'Happy birthday, David!',
             options: [
@@ -278,7 +250,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '28',
             englishLabel: 'friend',
             example: 'Tom is his friend.',
             options: [
@@ -288,7 +259,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '29',
             englishLabel: 'Be yourself.',
             example: 'Be yourself and no one else.',
             options: [
@@ -298,7 +268,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '30',
             englishLabel: 'no one else',
             example: 'Be yourself and no one else.',
             options: [
@@ -308,7 +277,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '31',
             englishLabel: 'bottle',
             example: 'The feelings are in the bottle.',
             options: [
@@ -318,7 +286,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '32',
             englishLabel: 'to get back',
             example: 'I will get the feelings back.',
             options: [
@@ -328,7 +295,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '33',
             englishLabel: 'mad',
             example: 'I am nice, Bob is mad.',
             options: [
@@ -338,7 +304,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '34',
             englishLabel: 'magic',
             example: 'This is a magic bottle.',
             options: [
@@ -348,7 +313,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '35',
             englishLabel: 'to rob',
             example: 'I’m a monster and I rob feelings.',
             options: [
@@ -358,7 +322,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '36',
             englishLabel: 'to break',
             example: 'I must break the bottle.',
             options: [
@@ -368,7 +331,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '37',
             englishLabel: 'to go to sleep',
             example: 'Go back to sleep.',
             options: [
@@ -378,7 +340,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '38',
             englishLabel: 'because',
             example: 'I’m happy because it’s the weekend.',
             options: [
@@ -388,7 +349,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '39',
             englishLabel: 'It’s me.',
             example: 'It’s me.',
             options: [
@@ -398,7 +358,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '40',
             englishLabel: 'Try it!',
             example: 'Try it!',
             options: [
@@ -408,7 +367,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '41',
             englishLabel: 'Let go!',
             example: 'Let go!',
             options: [
@@ -418,7 +376,6 @@ export const Unit4: Unit = {
             ],
         },
         {
-            id: '42',
             englishLabel: 'What’s happening?',
             example: 'What’s happening?',
             options: [

@@ -1,11 +1,9 @@
 import { Unit } from '../types/unit';
 
 export const Unit2: Unit = {
-    id: 'unit-2',
     title: 'Unit 2',
     words: [
         {
-            id: '1',
             englishLabel: 'zoo',
             example: 'There are many animals in the zoo.',
             options: [
@@ -15,7 +13,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '2',
             englishLabel: 'beautiful',
             example: 'The parrot is blue and yellow. It’s beautiful.',
             options: [
@@ -25,7 +22,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '3',
             englishLabel: 'behind',
             example: 'The chair is behind the desk.',
             options: [
@@ -35,7 +31,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '4',
             englishLabel: 'big',
             example: 'There’s a big giraffe.',
             options: [
@@ -45,7 +40,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '5',
             englishLabel: 'in front of',
             example: 'The tree is in front of you.',
             options: [
@@ -55,7 +49,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '6',
             englishLabel: 'next to',
             example: 'The parrot is next to the monkeys.',
             options: [
@@ -65,7 +58,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '7',
             englishLabel: 'now',
             example: 'Where is it now?',
             options: [
@@ -75,7 +67,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '8',
             englishLabel: 'on',
             example: 'Look! The parrot is on Buddy now.',
             options: [
@@ -85,7 +76,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '9',
             englishLabel: 'there is (there’s)',
             example: 'There’s a book on my desk.',
             options: [
@@ -95,7 +85,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '10',
             englishLabel: 'there are',
             example: 'There are three books on my desk.',
             options: [
@@ -105,7 +94,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '11',
             englishLabel: 'tree',
             example: 'The monkeys are behind the tree.',
             options: [
@@ -115,7 +103,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '12',
             englishLabel: 'under',
             example: 'There’s a book under my desk.',
             options: [
@@ -125,7 +112,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '13',
             englishLabel: 'What is it?',
             example: 'What is it?',
             options: [
@@ -135,7 +121,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '14',
             englishLabel: 'where',
             example: 'Where is it?',
             options: [
@@ -145,7 +130,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '15',
             englishLabel: 'small',
             example: 'The monkey isn’t big. It’s small.',
             options: [
@@ -155,7 +139,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '16',
             englishLabel: 'adult',
             example: 'Adults are £14.40.',
             options: [
@@ -165,7 +148,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '17',
             englishLabel: 'at',
             example: 'The children are at the zoo.',
             options: [
@@ -175,7 +157,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '18',
             englishLabel: 'to bring',
             example: 'Can I bring my dog, Buddy?',
             options: [
@@ -185,7 +166,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '19',
             englishLabel: 'but',
             example: 'Dogs are welcome. But they can’t run around.',
             options: [
@@ -195,7 +175,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '20',
             englishLabel: 'to feed',
             example: 'Let’s go and feed the penguins.',
             options: [
@@ -205,7 +184,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '21',
             englishLabel: 'guide',
             example: 'Listen to the guide.',
             options: [
@@ -215,7 +193,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '22',
             englishLabel: 'to run around',
             example: 'Dogs are welcome, but they can’t run around.',
             options: [
@@ -225,7 +202,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '23',
             englishLabel: 'train',
             example: 'Let’s go on a train.',
             options: [
@@ -235,7 +211,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '24',
             englishLabel: 'to',
             example: 'Welcome to the wildlife park!',
             options: [
@@ -245,7 +220,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '25',
             englishLabel: 'welcome',
             example: 'Welcome to London.',
             options: [
@@ -255,7 +229,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '26',
             englishLabel: 'from',
             example: 'They are from California.',
             options: [
@@ -265,7 +238,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '27',
             englishLabel: 'year',
             example: 'I’m in Year 7.',
             options: [
@@ -275,7 +247,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '28',
             englishLabel: 'he',
             example: 'He likes animals.',
             options: [
@@ -285,7 +256,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '29',
             englishLabel: 'she',
             example: 'She is from England.',
             options: [
@@ -295,7 +265,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '30',
             englishLabel: 'to talk',
             example: 'Talk about the boys and girls.',
             options: [
@@ -305,7 +274,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '31',
             englishLabel: 'they',
             example: 'Rahim and Sue are 11. They are from Manchester.',
             options: [
@@ -315,7 +283,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '32',
             englishLabel: 'we',
             example: 'We’re Sophie and John.',
             options: [
@@ -325,7 +292,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '33',
             englishLabel: 'for',
             example: 'Here’s a chart for you.',
             options: [
@@ -335,7 +301,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '34',
             englishLabel: 'happy',
             example: 'Buddy is happy.',
             options: [
@@ -345,7 +310,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '35',
             englishLabel: 'to let somebody out',
             example: 'Let us out!',
             options: [
@@ -355,7 +319,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '36',
             englishLabel: 'us',
             example: 'Can you see us?',
             options: [
@@ -365,7 +328,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '37',
             englishLabel: 'car',
             example: 'The parrot is in the car.',
             options: [
@@ -375,7 +337,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '38',
             englishLabel: 'At last.',
             options: [
                 { label: 'Endlich.', correct: true },
@@ -384,7 +345,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '39',
             englishLabel: 'How strange!',
             options: [
                 { label: 'Wie komisch!', correct: true },
@@ -393,7 +353,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '40',
             englishLabel: 'Let me see.',
             options: [
                 { label: 'Lass mich mal schauen.', correct: true },
@@ -402,7 +361,6 @@ export const Unit2: Unit = {
             ],
         },
         {
-            id: '41',
             englishLabel: 'stone',
             example: 'Colour your stone.',
             options: [

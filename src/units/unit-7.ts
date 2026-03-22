@@ -1,11 +1,9 @@
 import { Unit } from '../types/unit';
 
 export const Unit7: Unit = {
-    id: 'unit-7',
     title: 'Unit 7',
     words: [
         {
-            id: '1',
             englishLabel: 'meat',
             example: 'I am vegetarian: I never eat meat.',
             options: [
@@ -15,7 +13,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '2',
             englishLabel: 'ham',
             example:
                 'On the weekend, I sometimes have ham and eggs for breakfast.',
@@ -26,7 +23,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '3',
             englishLabel: 'healthy',
             example: 'A lot of junk food isn’t healthy.',
             options: [
@@ -36,7 +32,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '4',
             englishLabel: 'to like',
             example: 'I like orange juice.',
             options: [
@@ -46,7 +41,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '5',
             englishLabel: 'always',
             example: 'They always have pizza for dinner.',
             options: [
@@ -56,7 +50,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '6',
             englishLabel: 'breakfast',
             example: 'We have eggs for breakfast.',
             options: [
@@ -66,7 +59,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '7',
             englishLabel: 'country',
             example:
                 'My grandparents live in the country, but I live in the city.',
@@ -77,7 +69,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '8',
             englishLabel: 'dessert',
             example: 'For dessert, I like rice pudding.',
             options: [
@@ -87,7 +78,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '9',
             englishLabel: 'family',
             example: 'My family and I live in Austria.',
             options: [
@@ -97,7 +87,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '10',
             englishLabel: 'fruit',
             example: 'He likes lots of fruit for breakfast.',
             options: [
@@ -107,7 +96,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '11',
             englishLabel: 'grandparents',
             example: 'My grandparents live in the country.',
             options: [
@@ -117,7 +105,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '12',
             englishLabel: 'lunch',
             example: 'We often have curry for lunch.',
             options: [
@@ -127,7 +114,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '13',
             englishLabel: 'never',
             example: 'She never eats meat. She’s a vegetarian.',
             options: [
@@ -137,7 +123,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '14',
             englishLabel: 'often',
             example: 'They often have bread for breakfast.',
             options: [
@@ -147,7 +132,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '15',
             englishLabel: 'to put',
             example: 'We put fish and vegetables on the rice paper.',
             options: [
@@ -157,7 +141,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '16',
             englishLabel: 'sometimes',
             example: 'We sometimes have fish for lunch.',
             options: [
@@ -167,7 +150,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '17',
             englishLabel: 'stew',
             example:
                 'When we have vegetables (and meat) at home, my mum cooks a stew.',
@@ -178,7 +160,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '18',
             englishLabel: 'usually',
             example: 'She usually has bread for breakfast.',
             options: [
@@ -188,7 +169,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '19',
             englishLabel: 'vegetables',
             example: 'I like veggies, I mean vegetables.',
             options: [
@@ -198,7 +178,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '20',
             englishLabel: 'best friend',
             example: 'I like John best. He’s my best friend.',
             options: [
@@ -208,7 +187,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '21',
             englishLabel: 'tofu',
             example: 'I like meat, but sometimes I also eat tofu.',
             options: [
@@ -218,7 +196,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '22',
             englishLabel: 'beef',
             example: "I often eat chicken, but I really don't like beef.",
             options: [
@@ -228,7 +205,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '23',
             englishLabel: 'I don’t know.',
             example: '',
             options: [
@@ -238,7 +214,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '24',
             englishLabel: 'I’m not sure.',
             example: '',
             options: [
@@ -248,7 +223,6 @@ export const Unit7: Unit = {
             ],
         },
         {
-            id: '25',
             englishLabel: 'present',
             example: 'The vase is a good present for Mum.',
             options: [

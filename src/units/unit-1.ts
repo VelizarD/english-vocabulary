@@ -1,11 +1,9 @@
 import { Unit } from '../types/unit';
 
 export const Unit1: Unit = {
-    id: 'unit-1',
     title: 'Unit 1',
     words: [
         {
-            id: '1',
             englishLabel: 'to give',
             example: 'Give me your school bag.',
             options: [
@@ -22,7 +20,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '2',
             englishLabel: 'time',
             example: "It's time for school.",
             options: [
@@ -39,7 +36,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '3',
             englishLabel: 'to understand',
             example: 'I understand the question.',
             options: [
@@ -56,7 +52,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '4',
             englishLabel: 'to write',
             example: 'Write the numbers.',
             options: [
@@ -74,7 +69,6 @@ export const Unit1: Unit = {
         },
 
         {
-            id: '5',
             englishLabel: 'to enjoy',
             example: 'Enjoy the music.',
             options: [
@@ -91,7 +85,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '6',
             englishLabel: 'to listen',
             example: 'Listen to the song.',
             options: [
@@ -108,7 +101,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '7',
             englishLabel: 'to love',
             example: 'I love blue. It’s my favourite colour.',
             options: [
@@ -125,7 +117,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '8',
             englishLabel: 'more',
             example: 'I want more!',
             options: [
@@ -139,7 +130,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '9',
             englishLabel: 'to read',
             example: 'Read the text.',
             options: [
@@ -153,7 +143,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '10',
             englishLabel: 'their',
             example: 'What’s their address?',
             options: [
@@ -167,7 +156,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '11',
             englishLabel: 'to ask',
             example: 'Can I ask you a question?',
             options: [
@@ -181,7 +169,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '12',
             englishLabel: '(email) address',
             example: 'My email address is sara@linkways.com.',
             options: [
@@ -195,7 +182,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '13',
             englishLabel: 'How are you?',
             options: [
                 { label: 'Wie geht es dir/Ihnen/euch?', correct: true },
@@ -208,7 +194,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '14',
             englishLabel: 'I am (= I’m) fine.',
             options: [
                 { label: 'Es geht mir gut.', correct: true },
@@ -221,7 +206,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '15',
             englishLabel: 'to meet',
             example: 'Nice to meet you!',
             options: [
@@ -235,7 +219,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '16',
             englishLabel: 'then',
             example: 'Listen to the dialogue. Then read it.',
             options: [
@@ -249,7 +232,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '17',
             englishLabel: 'your',
             example: 'What’s your email address?',
             options: [
@@ -263,7 +245,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '18',
             englishLabel: 'to look',
             example: 'Look at the animals.',
             options: [
@@ -277,7 +258,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '19',
             englishLabel: 'or',
             example: 'Tick or correct the numbers.',
             options: [
@@ -291,7 +271,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '20',
             englishLabel: 'to eat',
             example: 'I eat insects.',
             options: [
@@ -305,7 +284,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '21',
             englishLabel: 'to go',
             example: 'I must go. Bye.',
             options: [
@@ -319,7 +297,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '22',
             englishLabel: 'must',
             example: 'I must go.',
             options: [
@@ -333,7 +310,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '23',
             englishLabel: 'how many',
             example: 'How many frogs can you see?',
             options: [
@@ -347,7 +323,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '24',
             englishLabel: 'to hate',
             example: 'I hate pink.',
             options: [
@@ -361,7 +336,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '25',
             englishLabel: 'here',
             example: 'Here’s your pencil case.',
             options: [
@@ -371,7 +345,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '26',
             englishLabel: 'it',
             example: 'It’s yellow.',
             options: [
@@ -381,7 +354,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '27',
             englishLabel: 'Let’s …',
             example: 'Let’s sing a song!',
             options: [
@@ -391,7 +363,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '28',
             englishLabel: 'midnight',
             example: 'It’s twelve o’clock – midnight.',
             options: [
@@ -401,7 +372,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '29',
             englishLabel: 'our',
             example: 'This is our school.',
             options: [
@@ -411,7 +381,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '30',
             englishLabel: 'favourite',
             example: 'Green is my favourite colour.',
             options: [
@@ -421,7 +390,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '31',
             englishLabel: 'to find',
             example: 'Can you find my school tie?',
             options: [
@@ -431,7 +399,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '32',
             englishLabel: 'light',
             example: 'My favourite colour is light blue.',
             options: [
@@ -441,7 +408,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '33',
             englishLabel: 'child',
             example: 'The child is in class 1A.',
             options: [
@@ -451,7 +417,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '34',
             englishLabel: 'to clean',
             example: 'Clean the board.',
             options: [
@@ -461,7 +426,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '35',
             englishLabel: 'to close',
             example: 'Close the door.',
             options: [
@@ -471,7 +435,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '36',
             englishLabel: 'to open',
             example: 'Open the window.',
             options: [
@@ -481,7 +444,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '37',
             englishLabel: 'picture',
             example: 'Look at the pictures.',
             options: [
@@ -491,7 +453,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '38',
             englishLabel: 'to sit down',
             example: 'Sit down, children.',
             options: [
@@ -501,7 +462,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '39',
             englishLabel: 'to speak',
             example: 'Don’t speak. Listen.',
             options: [
@@ -511,7 +471,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '40',
             englishLabel: 'to stand up',
             example: 'Don’t stand up. Sit down.',
             options: [
@@ -521,7 +480,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '41',
             englishLabel: 'to take out',
             example: 'Take out your books.',
             options: [
@@ -531,7 +489,6 @@ export const Unit1: Unit = {
             ],
         },
         {
-            id: '42',
             englishLabel: 'class',
             example: 'I’m in class 1A.',
             options: [

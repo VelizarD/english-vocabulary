@@ -1,11 +1,9 @@
 import { Unit } from '../types/unit';
 
 export const Unit3: Unit = {
-    id: 'unit-3',
     title: 'Unit 3',
     words: [
         {
-            id: '1',
             englishLabel: 'also',
             example: 'Tamara is also a pirate.',
             options: [
@@ -15,7 +13,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '2',
             englishLabel: 'famous',
             example: 'Greybeard is a famous pirate.',
             options: [
@@ -25,7 +22,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '3',
             englishLabel: 'him',
             example: 'Peter is nice. We like him.',
             options: [
@@ -35,7 +31,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '4',
             englishLabel: 'his',
             example: 'His pirate name is Blackbeard.',
             options: [
@@ -45,7 +40,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '5',
             englishLabel: 'ship',
             example: 'Greybeard has got a big ship.',
             options: [
@@ -55,7 +49,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '6',
             englishLabel: 'to be scared (of)',
             example: 'The kids are scared of the ship.',
             options: [
@@ -65,7 +58,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '7',
             englishLabel: 'very',
             example: 'They are very scared.',
             options: [
@@ -75,7 +67,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '8',
             englishLabel: 'strong',
             example: 'Greybeard hasn’t got a strong left leg.',
             options: [
@@ -85,7 +76,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '9',
             englishLabel: 'captain',
             example: 'The captain has got a blue ship.',
             options: [
@@ -95,7 +85,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '10',
             englishLabel: 'have got / has got',
             example: 'I have got brown hair. Tamara has got red hair.',
             options: [
@@ -105,7 +94,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '11',
             englishLabel: 'pretty',
             example: 'Polly is a pretty pirate.',
             options: [
@@ -115,7 +103,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '12',
             englishLabel: 'purple',
             example: 'She has got purple hair.',
             options: [
@@ -125,7 +112,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '13',
             englishLabel: 'a lot of / lots of',
             example: 'She has got a lot of books about pirates.',
             options: [
@@ -135,7 +121,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '14',
             englishLabel: 'bed',
             example: 'Dana is in bed now.',
             options: [
@@ -145,7 +130,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '15',
             englishLabel: 'dream',
             example: 'It’s a dream!',
             options: [
@@ -155,7 +139,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '16',
             englishLabel: 'tired',
             example: 'Dana is in bed. She is tired.',
             options: [
@@ -165,7 +148,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '17',
             englishLabel: 'to guess',
             example: 'Listen and guess the pirate.',
             options: [
@@ -175,7 +157,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '18',
             englishLabel: 'It’s your turn.',
             example: 'It’s your turn.',
             options: [
@@ -185,7 +166,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '19',
             englishLabel: 'brother',
             example: 'Fred is Frank’s brother.',
             options: [
@@ -195,7 +175,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '20',
             englishLabel: 'blonde',
             example: 'He has got blonde hair.',
             options: [
@@ -205,7 +184,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '21',
             englishLabel: 'real',
             example: 'His left leg isn’t real. It’s wooden.',
             options: [
@@ -215,7 +193,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '22',
             englishLabel: 'short',
             example: 'Greybeard is short.',
             options: [
@@ -225,7 +202,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '23',
             englishLabel: 'tall',
             example: 'Tamara is tall.',
             options: [
@@ -235,7 +211,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '24',
             englishLabel: 'wrong',
             example: 'Say what’s wrong.',
             options: [
@@ -245,7 +220,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '25',
             englishLabel: 'Good idea.',
             example: 'Good idea.',
             options: [
@@ -255,7 +229,6 @@ export const Unit3: Unit = {
             ],
         },
         {
-            id: '26',
             englishLabel: 'true',
             example: 'Is it true?',
             options: [

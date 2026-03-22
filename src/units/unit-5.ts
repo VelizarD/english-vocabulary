@@ -1,11 +1,9 @@
 import { Unit } from '../types/unit';
 
 export const Unit5: Unit = {
-    id: 'unit-5',
     title: 'Unit 5',
     words: [
         {
-            id: '1',
             englishLabel: 'boyfriend',
             example: 'Jack is her boyfriend.',
             options: [
@@ -15,7 +13,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '2',
             englishLabel: 'its',
             example: 'This is my band. Its name is Project 11.',
             options: [
@@ -25,7 +22,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '3',
             englishLabel: 'to play',
             example: 'They play the guitar.',
             options: [
@@ -35,7 +31,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '4',
             englishLabel: 'sister',
             example: 'Jessica is my sister.',
             options: [
@@ -45,7 +40,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '5',
             englishLabel: 'can; cannot / can’t',
             example: 'She can play the drums. He can’t sing.',
             options: [
@@ -55,7 +49,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '6',
             englishLabel: 'concert',
             example: 'Let’s go to the concert tomorrow.',
             options: [
@@ -65,7 +58,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '7',
             englishLabel: 'to dance',
             example: 'Let’s dance to the music!',
             options: [
@@ -75,7 +67,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '8',
             englishLabel: 'Don’t worry.',
             options: [
                 { label: 'Keine Sorge.', correct: true },
@@ -84,7 +75,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '9',
             englishLabel: 'job',
             example: 'She has a good job.',
             options: [
@@ -94,7 +84,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '10',
             englishLabel: 'perfect',
             example: 'The job is perfect for you.',
             options: [
@@ -104,7 +93,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '11',
             englishLabel: 'to carry',
             example: 'Can you carry my guitar?',
             options: [
@@ -114,7 +102,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '12',
             englishLabel: 'to stand on',
             example: 'I can stand on my head.',
             options: [
@@ -124,7 +111,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '13',
             englishLabel: 'tongue',
             example: 'He can touch his nose with his tongue.',
             options: [
@@ -134,7 +120,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '14',
             englishLabel: 'to touch',
             example: 'Please don’t touch my guitar.',
             options: [
@@ -144,7 +129,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '15',
             englishLabel: 'to walk on',
             example: 'Can you walk on your hands?',
             options: [
@@ -154,7 +138,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '16',
             englishLabel: 'to wiggle',
             example: 'He can wiggle his ears.',
             options: [
@@ -164,7 +147,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '17',
             englishLabel: 'can',
             example: 'Look, he carries fifteen cans.',
             options: [
@@ -174,7 +156,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '18',
             englishLabel: 'to drink',
             example: 'I can’t drink fifteen cans.',
             options: [
@@ -184,7 +165,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '19',
             englishLabel: 'hundred',
             example: 'Can you eat a hundred apples?',
             options: [
@@ -194,7 +174,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '20',
             englishLabel: 'in one go',
             example: 'Can you drink five cans in one go?',
             options: [
@@ -204,7 +183,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '21',
             englishLabel: 'Is that so?',
             options: [
                 { label: 'Ach wirklich?', correct: true },
@@ -213,7 +191,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '22',
             englishLabel: 'This is me.',
             options: [
                 { label: 'Das bin ich.', correct: true },
@@ -222,7 +199,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '23',
             englishLabel: 'economy',
             example: 'The economy is the world of money.',
             options: [
@@ -232,7 +208,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '24',
             englishLabel: 'hospital',
             example: 'The Clown Doctors go to hospitals and help children.',
             options: [
@@ -242,7 +217,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '25',
             englishLabel: 'to laugh',
             example: 'They make children laugh.',
             options: [
@@ -252,7 +226,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '26',
             englishLabel: '(pocket) money',
             example: 'I get my pocket money from my mum and dad.',
             options: [
@@ -262,7 +235,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '27',
             englishLabel: 'pound',
             example: 'A cup of apple juice is 2 pounds.',
             options: [
@@ -272,7 +244,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '28',
             englishLabel: 'profit',
             example: 'It’s 120 pounds. That’s my profit.',
             options: [
@@ -282,7 +253,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '29',
             englishLabel: 'school canteen',
             example: 'We have apple juice in our school canteen.',
             options: [
@@ -292,7 +262,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '30',
             englishLabel: 'table',
             example: 'I put a table in our playground.',
             options: [
@@ -302,7 +271,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '31',
             englishLabel: 'teacher',
             example: 'Mr Davis is my teacher at school.',
             options: [
@@ -312,7 +280,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '32',
             englishLabel: 'uncle',
             example: 'My uncle is my dad’s brother.',
             options: [
@@ -322,7 +289,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '33',
             englishLabel: 'to wash',
             example: 'I wash my mum’s car.',
             options: [
@@ -332,7 +298,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '34',
             englishLabel: 'nothing',
             example: 'There’s nothing in the garden.',
             options: [
@@ -342,7 +307,6 @@ export const Unit5: Unit = {
             ],
         },
         {
-            id: '35',
             englishLabel: 'Sorry?',
             options: [
                 { label: 'Entschuldigung?; Wie bitte?', correct: true },

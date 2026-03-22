@@ -1,11 +1,9 @@
 import { Unit } from '../types/unit';
 
 export const Unit6: Unit = {
-    id: 'unit-6',
     title: 'Unit 6',
     words: [
         {
-            id: '1',
             englishLabel: 'to climb',
             example: 'Sherlock Groans climbs up a tree.',
             options: [
@@ -15,7 +13,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '2',
             englishLabel: 'to jump',
             example: 'A bird jumps on Sherlock Groans’ head.',
             options: [
@@ -25,7 +22,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '3',
             englishLabel: 'to leave',
             example: 'Doctor Grey leaves the office.',
             options: [
@@ -35,7 +31,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '4',
             englishLabel: 'mirror',
             example: 'There is a mirror on a wall.',
             options: [
@@ -45,7 +40,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '5',
             englishLabel: 'to put on',
             example: 'Sherlock puts his hat on.',
             options: [
@@ -55,7 +49,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '6',
             englishLabel: 'to smile',
             example: 'He smiles in the mirror.',
             options: [
@@ -65,7 +58,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '7',
             englishLabel: 'to take off',
             example: 'He takes off his hat.',
             options: [
@@ -75,7 +67,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '8',
             englishLabel: 'away',
             example: 'Go away!',
             options: [
@@ -85,7 +76,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '9',
             englishLabel: '(world’s) best',
             example: 'Sherlock Groans is the world’s best detective!',
             options: [
@@ -95,7 +85,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '10',
             englishLabel: 'detective',
             example: 'He’s the world’s best detective.',
             options: [
@@ -105,7 +94,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '11',
             englishLabel: 'Help me!',
             options: [
                 { label: 'Hilf mir!', correct: true },
@@ -114,7 +102,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '12',
             englishLabel: 'to look for',
             example: 'He looks for his hat in the park.',
             options: [
@@ -124,7 +111,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '13',
             englishLabel: 'old',
             example: 'His skateboard isn’t new. It’s very old.',
             options: [
@@ -134,7 +120,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '14',
             englishLabel: 'to pick up',
             example: 'He picks up the hat.',
             options: [
@@ -144,7 +129,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '15',
             englishLabel: 'to run out (of)',
             example: 'Sherlock runs out of the office.',
             options: [
@@ -154,7 +138,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '16',
             englishLabel: 'to run down (the street)',
             example: 'Sherlock runs down the street.',
             options: [
@@ -164,7 +147,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '17',
             englishLabel: 'to find',
             example: 'The dog finds Sherlock Groans.',
             options: [
@@ -174,7 +156,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '18',
             englishLabel: 'to pull',
             example: 'The dog pulls Sherlock Groans out of the river.',
             options: [
@@ -184,7 +165,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '19',
             englishLabel: 'to catch',
             example: 'He always catches the bad people.',
             options: [
@@ -194,7 +174,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '20',
             englishLabel: 'clever',
             example: 'Sherlock is really clever.',
             options: [
@@ -204,7 +183,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '21',
             englishLabel: 'to come to',
             example: 'He comes to a park.',
             options: [
@@ -214,7 +192,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '22',
             englishLabel: 'to live',
             example: 'Peter lives in London.',
             options: [
@@ -224,7 +201,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '23',
             englishLabel: 'pipe',
             example: 'Sherlock often has a pipe in his mouth.',
             options: [
@@ -234,7 +210,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '24',
             englishLabel: 'to smoke',
             example: 'Groans smokes a pipe.',
             options: [
@@ -244,7 +219,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '25',
             englishLabel: 'violin',
             example: 'He can play the violin.',
             options: [
@@ -254,7 +228,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '26',
             englishLabel: 'to wear',
             example: 'Trevor wears a black hat.',
             options: [
@@ -264,7 +237,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '27',
             englishLabel: 'a lot of / lots of',
             example: 'There are lots of beautiful trees in the park.',
             options: [
@@ -274,7 +246,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '28',
             englishLabel: 'to call',
             example: 'Sherlock Groans calls Doctor Grey.',
             options: [
@@ -284,7 +255,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '29',
             englishLabel: 'Come on!',
             options: [
                 { label: 'Komm(t) jetzt! Mach(t) schon!', correct: true },
@@ -293,7 +263,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '30',
             englishLabel: 'to solve',
             example: 'Detectives solve problems.',
             options: [
@@ -303,7 +272,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '31',
             englishLabel: 'to wait',
             example: 'But … wait … what’s that?',
             options: [
@@ -313,7 +281,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '32',
             englishLabel: 'to watch',
             example: 'He watches the people in the streets.',
             options: [
@@ -323,7 +290,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '33',
             englishLabel: 'street',
             example: 'Anna lives in York Street.',
             options: [
@@ -333,7 +299,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '34',
             englishLabel: 'to get up',
             example: 'He gets up at 7 o’clock in the morning.',
             options: [
@@ -343,7 +308,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '35',
             englishLabel: 'to become',
             example: 'Emma becomes a tiger.',
             options: [
@@ -353,7 +317,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '36',
             englishLabel: 'But it’s true!',
             options: [
                 { label: 'Aber es stimmt!', correct: true },
@@ -362,7 +325,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '37',
             englishLabel: 'Go on.',
             options: [
                 { label: 'weitermachen; Erzähl weiter!', correct: true },
@@ -371,7 +333,6 @@ export const Unit6: Unit = {
             ],
         },
         {
-            id: '38',
             englishLabel: 'Well done.',
             options: [
                 { label: 'Gut gemacht.', correct: true },

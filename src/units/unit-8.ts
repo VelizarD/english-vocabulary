@@ -1,11 +1,9 @@
 import { Unit } from '../types/unit';
 
 export const Unit8: Unit = {
-    id: 'unit-8',
     title: 'Unit 8',
     words: [
         {
-            id: '1',
             englishLabel: 'hole',
             example: 'Have your jeans got holes in them?',
             options: [
@@ -15,7 +13,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '2',
             englishLabel: 'anything',
             example: 'Is there anything in the box?',
             options: [
@@ -25,7 +22,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '3',
             englishLabel: 'to borrow',
             example: 'Can I borrow your sweater tomorrow?',
             options: [
@@ -35,7 +31,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '4',
             englishLabel: 'to fit',
             example: 'These jeans don’t fit.',
             options: [
@@ -45,7 +40,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '5',
             englishLabel: 'to try on',
             example: 'Can I try these trousers on?',
             options: [
@@ -55,7 +49,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '6',
             englishLabel: 'to hurt',
             example: 'My head hurts!',
             options: [
@@ -65,7 +58,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '7',
             englishLabel: 'poem',
             example: 'He likes to write poems.',
             options: [
@@ -75,7 +67,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '8',
             englishLabel: 'to tickle',
             example: 'Please don’t tickle me!',
             options: [
@@ -85,7 +76,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '9',
             englishLabel: 'somebody',
             example: 'There’s somebody behind the bushes.',
             options: [
@@ -95,7 +85,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '10',
             englishLabel: 'backwards',
             example: 'I can spell the word backwards too.',
             options: [
@@ -105,7 +94,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '11',
             englishLabel: 'exciting',
             example: 'It’s a very exciting costume.',
             options: [
@@ -115,7 +103,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '12',
             englishLabel: 'tonight',
             example: 'They all want to win the big prize tonight.',
             options: [
@@ -125,7 +112,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '13',
             englishLabel: 'horse',
             example: 'She rides her horse at weekends.',
             options: [
@@ -135,7 +121,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '14',
             englishLabel: 'building',
             example: 'The children go into the building.',
             options: [
@@ -145,7 +130,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '15',
             englishLabel: 'Let’s get out of here.',
             example: '',
             options: [
@@ -155,7 +139,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '16',
             englishLabel: 'cap',
             example: 'He is wearing a green cap.',
             options: [
@@ -165,7 +148,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '17',
             englishLabel: 'mask',
             example: 'She is wearing a mask.',
             options: [
@@ -175,7 +157,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '18',
             englishLabel: 'jacket',
             example: 'It’s cold, so I wear a jacket.',
             options: [
@@ -185,7 +166,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '19',
             englishLabel: 'sweater',
             example: 'This sweater is very warm.',
             options: [
@@ -195,7 +175,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '20',
             englishLabel: 'blouse',
             example: 'She wears a white blouse.',
             options: [
@@ -205,7 +184,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '21',
             englishLabel: 'trousers',
             example: 'These trousers are too big.',
             options: [
@@ -215,7 +193,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '22',
             englishLabel: 'hoodie',
             example: 'I like wearing a hoodie.',
             options: [
@@ -225,7 +202,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '23',
             englishLabel: 'cape',
             example: 'The superhero wears a red cape.',
             options: [
@@ -235,7 +211,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '24',
             englishLabel: 'pyjamas',
             example: 'I wear pyjamas at night.',
             options: [
@@ -245,7 +220,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '25',
             englishLabel: 'belt',
             example: 'He wears a belt with his trousers.',
             options: [
@@ -255,7 +229,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '26',
             englishLabel: 'tights',
             example: 'She wears tights under her skirt.',
             options: [
@@ -265,7 +238,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '27',
             englishLabel: 'shoes',
             example: 'These shoes are very comfortable.',
             options: [
@@ -275,7 +247,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '28',
             englishLabel: 'boots',
             example: 'I wear boots in winter.',
             options: [
@@ -285,7 +256,6 @@ export const Unit8: Unit = {
             ],
         },
         {
-            id: '29',
             englishLabel: 'trainers',
             example: 'He wears trainers for sports.',
             options: [
